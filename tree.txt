@@ -1,0 +1,43 @@
+Progect_Apolloxias/       
+├── apoloxias.py
+├── core/
+│   ├── __init__.py       
+│   ├── auth.py
+│   ├── config.py
+│   ├── crypto.py
+│   ├── module_api.py     
+│   ├── module_manager.py 
+│   └── network_stealth.py
+├── gui/
+│   ├── __init__.py       
+│   ├── login_window.py   
+│   └── main_window.py
+├── logs/
+├── modules/
+│   ├── ChatModule/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── manifest.json
+│   │   └── module_data/
+│   ├── ExampleModule/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── manifest.json
+│   │   └── module_data/
+│   ├── FileShare/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── manifest.json
+│   │   └── module_data/
+│   ├── UpdateManager/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── manifest.json
+│   │   └── module_data/
+│   └── VoiceChat/
+│       ├── __init__.py
+│       ├── main.py
+│       ├── manifest.json
+│       └── module_data/
+├── tree.py
+└── tree.txt

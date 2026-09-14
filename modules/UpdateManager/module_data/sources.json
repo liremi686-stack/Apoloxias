@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Apoloxias Official",
+    "url": "https://api.apoloxias.example/modules",
+    "enabled": true,
+    "trusted": true
+  }
+]

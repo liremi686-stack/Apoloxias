@@ -1,0 +1,10 @@
+{
+    "name": "ChatModule",
+    "version": "2.0.0",
+    "author": "Apoloxias",
+    "description": "Защищенный LAN-чат с гибридным постквантовым шифрованием",
+    "icon": "icon.ico",
+    "entry_point": "main.py",
+    "requires": [],
+    "permissions": ["network", "notifications"]
+}

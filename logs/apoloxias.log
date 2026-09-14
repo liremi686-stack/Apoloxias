@@ -1,0 +1,39 @@
+[2026-08-27 14:10:39] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 14:10:49] [INFO] [ExampleModule] ExampleModule загружен
+[2026-08-27 14:10:50] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 14:10:50] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 14:54:10] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 14:54:25] [INFO] [ExampleModule] ExampleModule загружен
+[2026-08-27 14:54:25] [INFO] [FileShare] FileShare загружен
+[2026-08-27 14:54:25] [INFO] [FileShare] HTTP сервер на порту 52001
+[2026-08-27 14:54:36] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 14:54:41] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 15:16:51] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 15:16:55] [INFO] [ExampleModule] ExampleModule загружен
+[2026-08-27 15:16:56] [INFO] [FileShare] FileShare загружен
+[2026-08-27 15:16:56] [INFO] [FileShare] HTTP сервер на порту 52001
+[2026-08-27 15:16:56] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 15:16:57] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 15:19:48] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 15:24:47] [INFO] [ChatModule] ChatModule выгружен
+[2026-08-27 15:31:18] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 15:31:51] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 15:31:54] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 15:32:41] [ERROR] [UpdateManager] Ошибка Apoloxias Official: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.apoloxias.example'. (_ssl.c:1032)>
+[2026-08-27 15:32:54] [INFO] [FileShare] FileShare загружен
+[2026-08-27 15:32:54] [INFO] [FileShare] HTTP сервер на порту 52001
+[2026-08-27 15:46:21] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 15:54:00] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 15:54:00] [INFO] [VoiceChat] VoiceChat UDP порт 54001
+[2026-08-27 15:54:35] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 15:54:36] [INFO] [FileShare] FileShare загружен
+[2026-08-27 15:54:36] [INFO] [FileShare] HTTP сервер на порту 52001
+[2026-08-27 15:54:37] [INFO] [ExampleModule] ExampleModule загружен
+[2026-08-27 15:54:38] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 16:20:50] [INFO] [ChatModule] ChatModule загружен
+[2026-08-27 16:20:53] [INFO] [ExampleModule] ExampleModule загружен
+[2026-08-27 16:20:54] [INFO] [FileShare] FileShare загружен
+[2026-08-27 16:20:54] [INFO] [FileShare] HTTP сервер на порту 52001
+[2026-08-27 16:20:55] [INFO] [UpdateManager] UpdateManager загружен
+[2026-08-27 16:20:57] [INFO] [VoiceChat] VoiceChat загружен
+[2026-08-27 16:20:58] [INFO] [VoiceChat] VoiceChat UDP порт 54001

@@ -1,0 +1,10 @@
+{
+    "name": "UpdateManager",
+    "version": "0.7a",
+    "author": "Apoloxias",
+    "description": "Менеджер обновлений модулей (Web + LAN multicast)",
+    "icon": "icon.ico",
+    "entry_point": "main.py",
+    "requires": [],
+    "permissions": ["network", "filesystem", "notifications"]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "FileShare",
+    "version": "2.0.0",
+    "author": "Apoloxias",
+    "description": "P2P обмен файлами через LAN с multicast discovery",
+    "icon": "icon.ico",
+    "entry_point": "main.py",
+    "requires": [],
+    "permissions": ["network", "filesystem", "notifications"]
+}

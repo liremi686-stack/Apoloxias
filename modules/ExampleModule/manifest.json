@@ -1,0 +1,10 @@
+{
+    "name": "ExampleModule",
+    "version": "2.0.0",
+    "author": "Apoloxias",
+    "description": "Демонстрация API, шифрованного хранилища и событий",
+    "icon": "icon.ico",
+    "entry_point": "main.py",
+    "requires": [],
+    "permissions": ["notifications"]
+}

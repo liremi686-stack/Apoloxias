@@ -1,0 +1,10 @@
+{
+    "name": "VoiceChat",
+    "version": "2.0.0",
+    "author": "Apoloxias",
+    "description": "Голосовой чат LAN — HQ Audio: 48kHz, Opus, AGC, шумоподавление, jitter buffer",
+    "icon": "icon.ico",
+    "entry_point": "main.py",
+    "requires": [],
+    "permissions": ["network", "microphone", "notifications"]
+}
